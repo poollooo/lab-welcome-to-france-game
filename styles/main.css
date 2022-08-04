@@ -28,6 +28,7 @@ main {
   justify-content: center;
   text-align: center;
 }
+
 header {
   flex-direction: column;
   align-items: center;
@@ -78,6 +79,7 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
 .inventory .item {
   height: 4rem;
   width: 4rem;
@@ -89,21 +91,27 @@ footer {
 .carte-vitale {
   background-image: url('../images/carte-vitale.png');
 }
+
 .titre-de-sejour {
   background-image: url('../images/titre-de-sejour.jpg');
 }
+
 .sim-card {
   background-image: url('../images/sim-card.png');
 }
+
 .compte-bancaire {
   background-image: url('../images/compte-bancaire.png');
 }
+
 .apartment {
   background-image: url('../images/apartment.png');
 }
+
 .job {
   background-image: url('../images/job.png');
 }
+
 .player {
   background-image: url('../images/player.png');
 }
